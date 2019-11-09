@@ -1,4 +1,4 @@
 # Python
 Image display
-soil.jpg
+Soil.jpg
 ![image](C:\Users\Bharath\Desktop\Soil.jpg)
